@@ -1,3 +1,1 @@
-Moon 2.0 Stealer
-
-This repository doesn't contain my code. I have uploaded it to GitHub for those want to analyse the code.
+Flare Stealer 1.0.0
